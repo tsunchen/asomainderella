@@ -1,0 +1,38 @@
+
+Status Field Processing
+------ -----
+
+[
+ popitem
+
+ alarm
+
+ appliance
+
+ device, devices
+
+ interface, interfaces
+
+ org
+
+ reflection
+
+ refrator
+
+ routines
+
+ sdwan, spokegroup
+
+ statusfield
+
+ system
+
+ trybackable
+
+ vrouter
+]
+
+2020.2.1 create cfue_shct_
+
+2022.1.21 vegetablesoup created
+

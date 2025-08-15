@@ -1,0 +1,5 @@
+vmclan LAN侧地址
+
+vmcwan WAN侧地址
+
+vmcgspoke HUB名称
